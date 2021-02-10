@@ -39,8 +39,6 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- 
-
 
 
 - task: PythonScript@0
